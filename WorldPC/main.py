@@ -35,6 +35,3 @@ mouse3 = Mouse('Mouse', 'Samsung')
 computer3 = Computer('test-cpu', monitor1, keyboard1, mouse1)
 
 order.addComputer(computer3)
-
-
-# test

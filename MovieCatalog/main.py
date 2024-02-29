@@ -23,5 +23,3 @@ Menu:
         MovieCatalog().deleteMovies()
     elif option == 4:
         count = 1
-
-# test
