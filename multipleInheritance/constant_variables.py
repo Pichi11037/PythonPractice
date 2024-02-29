@@ -1,0 +1,1 @@
+CONSTANT_VAR = 'this is sa constant var'
