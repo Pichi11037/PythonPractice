@@ -18,4 +18,7 @@ class Switch:
 
 # Create an instance and call the switch method with the desired case
 s = Switch()
-s.switch(2)
+
+l = [1,2,3,4]
+t = tuple(l)
+print(t)
