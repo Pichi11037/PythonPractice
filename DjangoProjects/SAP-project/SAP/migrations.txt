@@ -1,0 +1,9 @@
+- Migrate pending clases and initial models with python3 manage.py migrate
+
+- Django has a ORM to map all the values of the classes to and from the database
+
+- Create migrations file with python3 manage.py makemigrations
+
+- Check SQL declaration for the migrations with python3 manage.py sqlmigrate <app_name> <migration_no>
+
+- 
